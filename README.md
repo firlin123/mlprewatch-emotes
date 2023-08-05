@@ -1,1 +1,1 @@
-# mlprewatchstream-emotes
+# mlprewatch-emotes
