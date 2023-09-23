@@ -1242,5 +1242,9 @@
     {
         "name": ":dude:",
         "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Adude%3A.gif"
+    },
+    {
+        "name": ":dontchaknow:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Adontchaknow%3A.png"
     }
 ]
