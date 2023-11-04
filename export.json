@@ -1246,5 +1246,13 @@
     {
         "name": ":dontchaknow:",
         "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Adontchaknow%3A.png"
+    },
+    {
+        "name": ":neet:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Aneet%3A.png"
+    },
+    {
+        "name": ":lemon:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Alemon%3A.gif"
     }
 ]
