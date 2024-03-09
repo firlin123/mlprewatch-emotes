@@ -1262,5 +1262,9 @@
     {
         "name": ":creatura:",
         "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Acreatura%3A.gif"
+    },
+    {
+        "name": ":sweep:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Asweep%3A.gif"
     }
 ]
