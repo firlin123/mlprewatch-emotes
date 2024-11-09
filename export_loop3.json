@@ -149,7 +149,7 @@
     },
     {
         "name": ":kek2:",
-        "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Akek2%3A.gif"
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Akek2%3A.gif"
     },
     {
         "name": ":sweat2:",
@@ -1282,5 +1282,25 @@
     {
         "name": ":kimi:",
         "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Akimi%3A.jpeg"
+    },
+    {
+        "name": ":shoobedoo:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Ashoobedoo%3A.gif"
+    },
+    {
+        "name": ":hi2:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Ahi2%3A.gif"
+    },
+    {
+        "name": ":unf2:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Aunf2%3A.gif"
+    },
+    {
+        "name": ":twinklehop:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Atwinklehop%3A.gif"
+    },
+    {
+        "name": ":anonbop:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Aanonbop%3A.gif"
     }
 ]
