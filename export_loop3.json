@@ -397,7 +397,7 @@
     },
     {
         "name": ":silly:",
-        "image": "https://firlin123.github.io/mlprewatch-emotes/images/%3Asilly%3A.jpg"
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Asilly%3A.gif"
     },
     {
         "name": ":teacher:",
@@ -1302,5 +1302,9 @@
     {
         "name": ":anonbop:",
         "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Aanonbop%3A.gif"
+    },
+    {
+        "name": ":drool:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Adrool%3A.gif"
     }
 ]
