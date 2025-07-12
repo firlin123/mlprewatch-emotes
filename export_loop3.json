@@ -1342,5 +1342,13 @@
     {
         "name": ":TRAUMA:",
         "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3ATRAUMA%3A.gif"
+    },
+    {
+        "name": ":ihatethem:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Aihatethem%3A.png"
+    },
+    {
+        "name": ":su:",
+        "image": "https://firlin123.github.io/mlprewatch-emotes/images/loop3/%3Asu%3A.png"
     }
 ]
